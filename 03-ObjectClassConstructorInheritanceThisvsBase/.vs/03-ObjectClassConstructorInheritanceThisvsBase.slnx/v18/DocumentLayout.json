@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\user\\desktop\\projects\\02-heapstackrefoutarrayresize\\03-objectclassconstructorinheritancethisvsbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\user\\desktop\\projects\\02-heapstackrefoutarrayresize\\03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\user\\desktop\\projects\\02-heapstackrefoutarrayresize\\03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\user\\desktop\\projects\\02-heapstackrefoutarrayresize\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\user\\desktop\\projects\\02-heapstackrefoutarrayresize\\03-objectclassconstructorinheritancethisvsbase\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68BAEA0-44F7-4546-A21B-2223CFD4FAAD}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\admin.cs",
+              "RelativeDocumentMoniker": "admin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\admin.cs",
+              "RelativeToolTip": "admin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:11:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:10:33.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:10:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\person.cs",
+              "RelativeDocumentMoniker": "person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\person.cs",
+              "RelativeToolTip": "person.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:48:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\02-HeapStackRefOutArrayResize\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:46:59.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

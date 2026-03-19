@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-HeapStackRefOutArrayResize", "02-HeapStackRefOutArrayResize.csproj", "{2172D0B1-FDE4-4B83-BD5B-77999DB08BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2172D0B1-FDE4-4B83-BD5B-77999DB08BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2172D0B1-FDE4-4B83-BD5B-77999DB08BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2172D0B1-FDE4-4B83-BD5B-77999DB08BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2172D0B1-FDE4-4B83-BD5B-77999DB08BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {609E7094-AEC4-4C9C-A6D8-E5270C39EF66}
+	EndGlobalSection
+EndGlobal

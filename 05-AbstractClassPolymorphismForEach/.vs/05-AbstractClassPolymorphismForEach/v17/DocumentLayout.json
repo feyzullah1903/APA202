@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|c:\\users\\classtime.pc_6_213_5\\desktop\\apa202\\05-abstractclasspolymorphismforeach\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|c:\\users\\classtime.pc_6_213_5\\desktop\\apa202\\05-abstractclasspolymorphismforeach\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|c:\\users\\classtime.pc_6_213_5\\desktop\\apa202\\05-abstractclasspolymorphismforeach\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|c:\\users\\classtime.pc_6_213_5\\desktop\\apa202\\05-abstractclasspolymorphismforeach\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|c:\\users\\classtime.pc_6_213_5\\desktop\\apa202\\05-abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6270C5-1C7E-4F68-A0D3-8B5326C4EDEC}|05-AbstractClassPolymorphismForEach.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:30:04.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:29:50.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:29:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:29:26.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\APA202\\05-AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwv0cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:28:24.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
