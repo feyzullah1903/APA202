@@ -1,0 +1,15 @@
+﻿using _10_GenericTypesCollections.Models;
+using System.Threading.Channels;
+
+namespace _10_GenericTypesCollections
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+          Book book1 = new Book { BookId = 1, Title = "Kitab 1",
+              Author
+          }
+        
+    }
+}

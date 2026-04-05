@@ -1,0 +1,26 @@
+﻿using _10_GenericTypesCollections.Models;
+using System.Threading.Channels;
+using static System.Net.WebRequestMethods;
+//1.Kitablar yaradın(5 kitab):
+//Book 1: ID = 1, Title = "Martin Eden", Author = "Jack London", Year = 1909, PageCount = 400
+//Book 2: ID = 2, Title = "1984", Author = "George Orwell", Year = 1949, PageCount = 328
+//Book 3: ID = 3, Title = "Animal Farm", Author = "George Orwell", Year = 1945, PageCount = 112
+//Book 4: ID = 4, Title = "Ağ Gəmi", Author = "Cingiz Aytmatov", Year = 1970, PageCount = 200
+//Book 5: ID = 5, Title = "Qırıq Budaq", Author = "Elçin", Year = 1998, PageCount = 350
+//Hər kitabın məlumatlarını göstərin (DisplayInfo)
+
+namespace _10_GenericTypesCollections
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Book book1 = new Book { BookId = 1, Title = "Martin Eden", Author = "Jack London", YearOfProse = 1909, PageCount = 400 };
+            Book book2 = new Book { BookId = 2, Title = "1984", Author = "George Orwell", YearOfProse = 1949, PageCount = 328 };
+
+
+
+        }
+        
+    }
+}
