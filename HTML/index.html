@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Login Form</title>
+
+<style>
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #6dd5ed, #c33764);
+    font-family: Arial;
+}
+
+.box {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    border-radius: 6px;
+    text-align: center;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    color: white;
+    background: linear-gradient(to right, #6dd5ed, #c33764);
+    cursor: pointer;
+}
+
+a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #6dd5ed;
+}
+</style>
+
+</head>
+<body>
+
+<div class="box">
+    <div class="close">×</div>
+
+    <h2>Login Form</h2>
+
+    <input type="text" placeholder="Email or Phone">
+    <input type="password" placeholder="Password">
+
+    <div style="text-align:left;">
+        <a href="#">Forgot Password?</a>
+    </div>
+
+    <br>
+
+    <button>LOGIN</button>
+
+    <p>Not a member? <a href="#">Signup now</a></p>
+</div>
+
+</body>
+</html>
