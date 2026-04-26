@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Creative - Start Bootstrap Tam Versiya</title>
+    <link rel="icon" type="image/x-icon" href="https://startbootstrap.com/assets/favicon.ico" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        :root { --bs-primary: #f4623a; }
+        body, html { width: 100%; height: 100%; font-family: "Merriweather Sans", sans-serif; }
+
+        /* Navbar */
+        #mainNav { transition: background-color 0.2s, padding 0.2s; padding-top: 1.5rem; padding-bottom: 1.5rem; border-bottom: none; }
+        #mainNav .navbar-brand { font-weight: 700; color: rgba(255, 255, 255, 0.7); text-transform: uppercase; }
+        #mainNav .nav-link { color: rgba(255, 255, 255, 0.7); font-weight: 700; font-size: 0.9rem; }
+        #mainNav.navbar-shrink { background-color: #fff !important; box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); padding-top: 0.5rem; padding-bottom: 0.5rem; }
+        #mainNav.navbar-shrink .navbar-brand, #mainNav.navbar-shrink .nav-link { color: #212529 !important; }
+        #mainNav.navbar-shrink .nav-link:hover { color: var(--bs-primary) !important; }
+
+        /* Masthead */
+        header.masthead {
+            padding-top: 10rem; padding-bottom: calc(10rem - 4.5rem);
+            background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), 
+                        url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+            background-position: center; background-size: cover; height: 100vh; display: flex; align-items: center;
+        }
+
+        .divider { height: 0.2rem; max-width: 3.25rem; margin: 1.5rem auto; background-color: var(--bs-primary); border: none; opacity: 1; }
+        .divider-light { background-color: #fff; }
+
+        /* Sections */
+        .page-section { padding: 8rem 0; }
+        .bg-primary { background-color: var(--bs-primary) !important; }
+        .btn-primary { background-color: var(--bs-primary); border: none; padding: 1.25rem 2.25rem; border-radius: 10rem; font-weight: 700; text-transform: uppercase; }
+        .btn-xl { font-size: 0.85rem; }
+
+        /* Portfolio */
+        .portfolio-box { position: relative; display: block; overflow: hidden; }
+        .portfolio-box .portfolio-box-caption {
+            display: flex; align-items: center; justify-content: center; flex-direction: column;
+            width: 100%; height: 100%; position: absolute; bottom: 0; text-align: center;
+            opacity: 0; color: #fff; background: rgba(244, 98, 58, 0.9); transition: opacity 0.25s ease;
+        }
+        .portfolio-box:hover .portfolio-box-caption { opacity: 1; }
+
+        /* Contact Section */
+        .bi-phone, .bi-envelope { font-size: 2rem; color: #6c757d; }
+
+        @media (max-width: 991.98px) {
+            #mainNav { background-color: #fff !important; }
+            #mainNav .navbar-brand, #mainNav .nav-link { color: #212529 !important; }
+            header.masthead { height: auto; padding: 8rem 0; }
+        }
+    </style>
+</head>
+<body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header class="masthead">
+        <div class="container px-4 px-lg-5 text-center">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+                <div class="col-lg-8">
+                    <h1 class="text-white font-weight-bold">Your Favorite Place for Free Bootstrap Themes</h1>
+                    <hr class="divider" />
+                    <p class="text-white-75 mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework!</p>
+                    <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="page-section bg-primary" id="about">
+        <div class="container px-4 text-center">
+            <h2 class="text-white mt-0">We've got what you need!</h2>
+            <hr class="divider divider-light" />
+            <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running!</p>
+            <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
+        </div>
+    </section>
+
+    <section class="page-section" id="services">
+        <div class="container px-4 text-center">
+            <h2 class="mt-0">At Your Service</h2>
+            <hr class="divider" />
+            <div class="row gx-4">
+                <div class="col-lg-3 col-md-6 mt-5"><i class="bi-gem fs-1 text-primary"></i><h3 class="h4 mb-2">Sturdy Themes</h3><p class="text-muted">Updated regularly.</p></div>
+                <div class="col-lg-3 col-md-6 mt-5"><i class="bi-laptop fs-1 text-primary"></i><h3 class="h4 mb-2">Up to Date</h3><p class="text-muted">Dependencies kept current.</p></div>
+                <div class="col-lg-3 col-md-6 mt-5"><i class="bi-globe fs-1 text-primary"></i><h3 class="h4 mb-2">Ready to Publish</h3><p class="text-muted">Use as is or change it.</p></div>
+                <div class="col-lg-3 col-md-6 mt-5"><i class="bi-heart fs-1 text-primary"></i><h3 class="h4 mb-2">Made with Love</h3><p class="text-muted">Open source passion.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <div id="portfolio">
+        <div class="container-fluid p-0">
+            <div class="row g-0">
+                <div class="col-lg-4 col-sm-6"><a class="portfolio-box" href="#"><img class="img-fluid" src="https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/1.jpg" alt="" /><div class="portfolio-box-caption"><div class="project-category text-white-50">Category</div><div class="project-name">Project Name</div></div></a></div>
+                <div class="col-lg-4 col-sm-6"><a class="portfolio-box" href="#"><img class="img-fluid" src="https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/2.jpg" alt="" /><div class="portfolio-box-caption"><div class="project-category text-white-50">Category</div><div class="project-name">Project Name</div></div></a></div>
+                <div class="col-lg-4 col-sm-6"><a class="portfolio-box" href="#"><img class="img-fluid" src="https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/3.jpg" alt="" /><div class="portfolio-box-caption"><div class="project-category text-white-50">Category</div><div class="project-name">Project Name</div></div></a></div>
+                <div class="col-lg-4 col-sm-6"><a class="portfolio-box" href="#"><img class="img-fluid" src="https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/4.jpg" alt="" /><div class="portfolio-box-caption"><div class="project-category text-white-50">Category</div><div class="project-name">Project Name</div></div></a></div>
+                <div class="col-lg-4 col-sm-6"><a class="portfolio-box" href="#"><img class="img-fluid" src="https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/5.jpg" alt="" /><div class="portfolio-box-caption"><div class="project-category text-white-50">Category</div><div class="project-name">Project Name</div></div></a></div>
+                <div class="col-lg-4 col-sm-6"><a class="portfolio-box" href="#"><img class="img-fluid" src="https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/6.jpg" alt="" /><div class="portfolio-box-caption"><div class="project-category text-white-50">Category</div><div class="project-name">Project Name</div></div></a></div>
+            </div>
+        </div>
+    </div>
+
+    <section class="page-section" id="contact">
+        <div class="container px-4 text-center">
+            <h2 class="mt-0">Let's Get In Touch!</h2>
+            <hr class="divider" />
+            <p class="text-muted mb-5">Ready to start your next project with us? Give us a call or send us an email!</p>
+            <div class="row gx-4 justify-content-center">
+                <div class="col-lg-4 text-center mb-5 mb-lg-0"><i class="bi-phone mb-3"></i><div>+1 (555) 123-4567</div></div>
+                <div class="col-lg-4 text-center"><i class="bi-envelope mb-3"></i><a class="d-block" href="mailto:contact@yourdomain.com">contact@yourdomain.com</a></div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-light py-5">
+        <div class="container px-4 px-lg-5 text-center text-muted small">
+            Copyright &copy; 2026 - Start Bootstrap
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        window.addEventListener('scroll', function() {
+            const nav = document.querySelector('#mainNav');
+            window.scrollY > 100 ? nav.classList.add('navbar-shrink') : nav.classList.remove('navbar-shrink');
+        });
+    </script>
+</body>
+</html>
